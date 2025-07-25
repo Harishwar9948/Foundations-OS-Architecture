@@ -23,6 +23,6 @@ These notes serve as a foundation for:
 
 ---
 
-This is part of my larger [Cybersecurity Labs Portfolio](#) — follow me for hands-on labs coming up soon!
+
 
 
